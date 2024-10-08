@@ -1,0 +1,29 @@
+# Front-end web development
+
+- HTML
+  - Basic structure
+  - Tag, Attribute, Content
+  - Types of Tag - Container/Pair, Empty Tag
+  - Semantic vs non semantic
+  - heading tags => h1>h2>h3>h4>h5>h6
+  - Entity
+  - List => Ordered, Unorderd, Defintion list
+  - Hyperlink
+  - Image, iframe
+  - Add Icons
+  - Table
+    - rowspan, colspan
+  - Form
+  - Web Accessibility
+  - Deploy: GitHub pages, netlify, vercel, Render(backend web api)
+- CSS
+- JS (built-in)
+- JS Library (3rd party) => React.js / Angular.js / Vue.js
+- Package Managers => NPM / YARN (Front-end), Nuget Package Nanagers
+- Redux state manager (1 session)
+- Optional
+  - CSS Framework => Bootstrap / Tailwind CSS
+  - CSS Prepocessor => SASS
+  - Testing
+    - Unit Testig (JEST, Jasmine)
+    - End-To-End Testing (Selenium)
